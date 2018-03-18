@@ -1,6 +1,6 @@
 questions = [
     {
-        "question": "Oppression by corporations is more of a concern than oppression by governments.",
+        "question": "Opressão por corporações é mais preocupante que opressso pelo governo.",
         "effect": {
             "econ": 10,
             "dipl": 0,
